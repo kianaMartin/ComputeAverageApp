@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ComputeAverageApp
-{
-    internal class Program
-    {
+namespace ComputeAverageApp{
+
+    internal class ComputeAverageProgram {
         static void Main(string[] args)
         {
             int num1, num2, num3, num4, num5;
